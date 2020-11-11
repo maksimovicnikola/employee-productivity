@@ -1,0 +1,1716 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Jon Snow",
+      "email": "jon-snow@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "jon-snow.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Samwell Tarly",
+      "email": "sam@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "sam.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/sam.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Daenerys Targaryen",
+      "email": "daenerys@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "daenerys.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arya Stark",
+      "email": "arya-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "arya-stark.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/arya-stark.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sansa Stark",
+      "email": "sansa-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "sansa-stark.jpeg",
+      "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Brandon Stark",
+      "email": "bran-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "bran-stark.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/bran-stark.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ned Stark",
+      "email": "ned-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "ned-stark.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Robert Baratheon",
+      "email": "robert-baratheon@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "robert-baratheon.jpeg",
+      "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Jamie Lannister",
+      "email": "jaime-lannister@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "jaime-lannister.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/jaime-lannister.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cersei Lannister",
+      "email": "cersei@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "cersei.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Catelyn Stark",
+      "email": "catelyn-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "catelyn-stark.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Rob Stark",
+      "email": "robb-stark@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "robb-stark.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Theon Greyjoy",
+      "email": "theon@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "theon.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/theon.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Joffrey Baratheon",
+      "email": "joffrey@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "joffrey.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tyrion Lannister",
+      "email": "tyrion-lannister@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "tyrion-lannister.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+    },
+    {
+      "id": 15,
+      "name": "The Hound",
+      "email": "the-hound@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "the-hound.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Petyr Baelish",
+      "email": "littlefinger@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "littlefinger.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Davos Seaworth",
+      "email": "davos-seaworth@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "davos-seaworth.png",
+      "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png"
+    },
+    {
+      "id": 18,
+      "name": "Stannis Baratheon",
+      "email": "stannis@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "stannis.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Varys",
+      "email": "varys@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "varys.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Khal Drogo",
+      "email": "khal-drogo@got.com",
+      "rate": "10",
+      "overtime_rate": "15",
+      "status": "active",
+      "image": "khal-drogo.jpg",
+      "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg"
+    }
+  ],
+  "shifts": [
+    {
+      "employee_id": 19,
+      "clock_in": "12/31/2019 08:20:25",
+      "clock_out": "12/31/2019 20:33:06"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "01/01/2020 09:53:57",
+      "clock_out": "01/02/2020 01:10:28"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "01/02/2020 08:00:33",
+      "clock_out": "01/02/2020 15:36:06"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "01/03/2020 08:55:01",
+      "clock_out": "01/03/2020 20:17:04"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "01/04/2020 08:45:48",
+      "clock_out": "01/05/2020 22:16:33"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "01/05/2020 08:29:34",
+      "clock_out": "01/05/2020 16:03:45"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "01/06/2020 09:55:02",
+      "clock_out": "01/06/2020 23:58:43"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "01/07/2020 09:40:26",
+      "clock_out": "01/08/2020 02:33:30"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "01/08/2020 08:03:20",
+      "clock_out": "01/08/2020 22:41:28"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "01/09/2020 09:24:40",
+      "clock_out": "01/09/2020 15:08:33"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "01/10/2020 08:43:52",
+      "clock_out": "01/11/2020 23:58:31"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "01/11/2020 08:03:14",
+      "clock_out": "01/11/2020 19:29:20"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "01/12/2020 08:16:08",
+      "clock_out": "01/12/2020 14:29:43"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "01/13/2020 09:14:41",
+      "clock_out": "01/13/2020 19:21:53"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "01/14/2020 08:19:06",
+      "clock_out": "01/15/2020 08:58:37"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "01/15/2020 09:07:22",
+      "clock_out": "01/16/2020 00:50:31"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "01/16/2020 08:01:35",
+      "clock_out": "01/16/2020 15:54:40"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "01/17/2020 08:43:09",
+      "clock_out": "01/17/2020 20:42:34"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "01/18/2020 08:55:01",
+      "clock_out": "01/18/2020 21:11:25"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "01/19/2020 08:16:48",
+      "clock_out": "01/20/2020 10:42:32"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "01/20/2020 09:28:46",
+      "clock_out": "01/21/2020 01:41:16"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "01/21/2020 09:52:59",
+      "clock_out": "01/21/2020 20:42:14"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "01/22/2020 08:44:16",
+      "clock_out": "01/23/2020 10:30:27"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "01/23/2020 08:25:53",
+      "clock_out": "01/23/2020 19:15:34"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "01/24/2020 08:00:38",
+      "clock_out": "01/24/2020 19:12:41"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "01/25/2020 08:39:20",
+      "clock_out": "01/25/2020 17:29:44"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "01/26/2020 09:38:44",
+      "clock_out": "01/26/2020 17:48:51"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "01/27/2020 08:34:11",
+      "clock_out": "01/28/2020 16:30:02"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "01/28/2020 08:14:44",
+      "clock_out": "01/29/2020 15:53:39"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "01/29/2020 09:41:25",
+      "clock_out": "01/29/2020 16:49:35"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "01/30/2020 08:41:05",
+      "clock_out": "01/31/2020 09:03:57"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "01/31/2020 09:51:35",
+      "clock_out": "02/01/2020 16:10:34"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "02/01/2020 08:07:20",
+      "clock_out": "02/01/2020 18:05:09"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "02/02/2020 08:18:12",
+      "clock_out": "02/02/2020 19:35:57"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "02/03/2020 09:39:50",
+      "clock_out": "02/04/2020 16:49:58"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "02/04/2020 08:52:25",
+      "clock_out": "02/04/2020 18:33:21"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "02/05/2020 08:36:38",
+      "clock_out": "02/06/2020 00:36:42"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "02/06/2020 09:07:18",
+      "clock_out": "02/06/2020 23:07:56"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "02/07/2020 08:21:46",
+      "clock_out": "02/08/2020 22:27:21"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "02/08/2020 08:21:18",
+      "clock_out": "02/09/2020 04:16:24"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "02/09/2020 09:22:05",
+      "clock_out": "02/10/2020 23:21:14"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "02/10/2020 08:24:31",
+      "clock_out": "02/11/2020 23:45:54"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "02/11/2020 08:19:56",
+      "clock_out": "02/11/2020 14:06:23"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "02/12/2020 09:16:06",
+      "clock_out": "02/13/2020 03:40:26"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "02/13/2020 09:07:17",
+      "clock_out": "02/13/2020 17:34:44"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "02/14/2020 08:55:01",
+      "clock_out": "02/14/2020 14:55:02"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "02/15/2020 08:54:39",
+      "clock_out": "02/15/2020 20:31:17"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "02/16/2020 08:42:10",
+      "clock_out": "02/17/2020 12:18:07"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "02/17/2020 08:08:33",
+      "clock_out": "02/17/2020 16:59:04"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "02/18/2020 08:34:30",
+      "clock_out": "02/19/2020 09:02:02"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "02/19/2020 08:04:57",
+      "clock_out": "02/19/2020 17:37:20"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "02/20/2020 08:14:24",
+      "clock_out": "02/21/2020 04:52:18"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "02/21/2020 08:24:09",
+      "clock_out": "02/21/2020 19:31:11"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "02/22/2020 08:19:24",
+      "clock_out": "02/22/2020 17:13:27"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "02/23/2020 09:30:08",
+      "clock_out": "02/23/2020 20:30:49"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "02/24/2020 08:07:10",
+      "clock_out": "02/24/2020 19:32:42"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "02/25/2020 08:00:42",
+      "clock_out": "02/25/2020 20:32:05"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "02/26/2020 08:12:15",
+      "clock_out": "02/26/2020 16:39:43"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "02/27/2020 08:30:23",
+      "clock_out": "02/28/2020 20:31:39"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "02/28/2020 08:29:57",
+      "clock_out": "02/28/2020 19:46:24"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "02/29/2020 08:49:33",
+      "clock_out": "02/29/2020 16:10:46"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "03/01/2020 08:51:56",
+      "clock_out": "03/02/2020 18:14:48"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "03/02/2020 09:31:04",
+      "clock_out": "03/03/2020 16:14:39"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "03/03/2020 08:36:12",
+      "clock_out": "03/03/2020 16:33:16"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "03/04/2020 08:17:00",
+      "clock_out": "03/04/2020 23:02:58"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "03/05/2020 08:33:48",
+      "clock_out": "03/05/2020 15:36:09"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "03/06/2020 09:54:12",
+      "clock_out": "03/07/2020 20:31:30"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "03/07/2020 08:59:50",
+      "clock_out": "03/08/2020 18:25:56"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "03/08/2020 08:17:57",
+      "clock_out": "03/09/2020 07:51:18"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "03/09/2020 09:36:10",
+      "clock_out": "03/09/2020 22:32:32"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "03/10/2020 08:39:25",
+      "clock_out": "03/10/2020 20:59:23"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "03/11/2020 08:33:43",
+      "clock_out": "03/11/2020 20:53:34"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "03/12/2020 08:57:35",
+      "clock_out": "03/13/2020 22:38:44"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "03/13/2020 08:54:02",
+      "clock_out": "03/13/2020 15:34:41"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "03/14/2020 09:10:57",
+      "clock_out": "03/15/2020 02:06:49"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "03/15/2020 08:06:36",
+      "clock_out": "03/15/2020 17:32:24"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "03/16/2020 08:43:37",
+      "clock_out": "03/16/2020 17:15:39"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "03/17/2020 08:53:08",
+      "clock_out": "03/18/2020 20:49:47"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "03/18/2020 08:30:55",
+      "clock_out": "03/19/2020 18:29:44"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "03/19/2020 08:03:21",
+      "clock_out": "03/19/2020 20:48:43"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "03/20/2020 09:07:17",
+      "clock_out": "03/20/2020 18:50:59"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "03/21/2020 09:37:44",
+      "clock_out": "03/21/2020 22:01:36"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "03/22/2020 09:18:04",
+      "clock_out": "03/22/2020 18:06:44"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "03/23/2020 09:12:02",
+      "clock_out": "03/23/2020 21:52:26"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "03/24/2020 09:14:18",
+      "clock_out": "03/25/2020 14:30:06"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "03/25/2020 08:59:30",
+      "clock_out": "03/25/2020 23:42:13"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "03/26/2020 08:31:43",
+      "clock_out": "03/26/2020 23:52:48"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "03/27/2020 08:21:37",
+      "clock_out": "03/27/2020 17:54:21"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "03/28/2020 09:09:09",
+      "clock_out": "03/28/2020 18:21:11"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "03/29/2020 08:25:57",
+      "clock_out": "03/29/2020 15:35:19"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "03/30/2020 09:52:07",
+      "clock_out": "03/31/2020 10:58:15"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "03/31/2020 08:49:16",
+      "clock_out": "03/31/2020 18:40:20"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "04/01/2020 09:25:55",
+      "clock_out": "04/02/2020 06:51:44"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "04/02/2020 08:37:48",
+      "clock_out": "04/02/2020 22:39:35"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "04/03/2020 08:34:20",
+      "clock_out": "04/03/2020 19:29:17"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "04/04/2020 08:04:07",
+      "clock_out": "04/04/2020 17:50:53"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "04/05/2020 08:16:36",
+      "clock_out": "04/06/2020 05:29:24"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "04/06/2020 08:49:21",
+      "clock_out": "04/06/2020 22:50:38"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "04/07/2020 08:58:45",
+      "clock_out": "04/07/2020 22:53:35"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "04/08/2020 09:07:04",
+      "clock_out": "04/09/2020 18:05:21"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "04/09/2020 09:12:53",
+      "clock_out": "04/09/2020 20:06:11"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "04/10/2020 09:15:58",
+      "clock_out": "04/10/2020 23:42:45"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "04/11/2020 09:55:33",
+      "clock_out": "04/11/2020 15:05:23"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "04/12/2020 09:53:42",
+      "clock_out": "04/13/2020 18:32:04"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "04/13/2020 08:02:10",
+      "clock_out": "04/13/2020 18:50:50"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "04/14/2020 09:46:38",
+      "clock_out": "04/14/2020 17:15:20"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "04/15/2020 09:29:55",
+      "clock_out": "04/15/2020 17:14:26"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "04/16/2020 08:58:12",
+      "clock_out": "04/17/2020 23:54:32"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "04/17/2020 08:53:56",
+      "clock_out": "04/18/2020 13:38:08"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "04/18/2020 08:13:42",
+      "clock_out": "04/19/2020 22:30:50"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "04/19/2020 08:12:14",
+      "clock_out": "04/20/2020 00:44:38"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "04/20/2020 09:32:46",
+      "clock_out": "04/20/2020 19:33:06"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "04/21/2020 08:12:12",
+      "clock_out": "04/21/2020 21:37:01"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "04/22/2020 08:20:59",
+      "clock_out": "04/22/2020 23:37:16"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "04/23/2020 08:29:43",
+      "clock_out": "04/24/2020 22:15:04"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "04/24/2020 08:16:32",
+      "clock_out": "04/24/2020 15:54:06"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "04/25/2020 08:20:40",
+      "clock_out": "04/25/2020 16:24:41"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "04/26/2020 09:58:58",
+      "clock_out": "04/26/2020 16:00:57"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "04/27/2020 09:25:32",
+      "clock_out": "04/27/2020 19:54:12"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "04/28/2020 09:00:15",
+      "clock_out": "04/28/2020 15:27:26"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "04/29/2020 08:11:52",
+      "clock_out": "04/29/2020 20:56:08"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "04/30/2020 09:44:51",
+      "clock_out": "04/30/2020 16:44:31"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "05/01/2020 09:20:33",
+      "clock_out": "05/01/2020 17:54:29"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "05/02/2020 09:00:18",
+      "clock_out": "05/03/2020 15:07:41"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "05/03/2020 09:26:11",
+      "clock_out": "05/03/2020 16:19:36"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "05/04/2020 08:20:13",
+      "clock_out": "05/04/2020 14:11:20"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "05/05/2020 08:39:55",
+      "clock_out": "05/05/2020 18:52:11"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "05/06/2020 09:00:19",
+      "clock_out": "05/07/2020 13:00:22"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "05/07/2020 09:11:38",
+      "clock_out": "05/07/2020 14:40:09"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "05/08/2020 08:06:32",
+      "clock_out": "05/08/2020 17:57:11"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "05/09/2020 08:05:41",
+      "clock_out": "05/09/2020 20:18:59"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "05/10/2020 09:04:20",
+      "clock_out": "05/10/2020 18:25:23"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "05/11/2020 09:01:47",
+      "clock_out": "05/11/2020 14:48:45"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "05/12/2020 09:06:18",
+      "clock_out": "05/12/2020 15:59:05"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "05/13/2020 08:07:52",
+      "clock_out": "05/14/2020 23:16:28"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "05/14/2020 09:14:31",
+      "clock_out": "05/14/2020 21:29:39"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "05/15/2020 09:54:23",
+      "clock_out": "05/16/2020 10:24:46"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "05/16/2020 08:20:28",
+      "clock_out": "05/17/2020 17:03:23"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "05/17/2020 09:52:41",
+      "clock_out": "05/17/2020 22:08:19"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "05/18/2020 08:04:09",
+      "clock_out": "05/18/2020 22:56:52"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "05/19/2020 09:35:49",
+      "clock_out": "05/19/2020 17:30:44"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "05/20/2020 08:02:29",
+      "clock_out": "05/20/2020 17:26:27"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "05/21/2020 09:14:19",
+      "clock_out": "05/21/2020 19:53:06"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "05/22/2020 09:33:14",
+      "clock_out": "05/23/2020 00:01:12"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "05/23/2020 09:14:41",
+      "clock_out": "05/23/2020 18:12:15"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "05/24/2020 09:42:14",
+      "clock_out": "05/24/2020 20:12:44"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "05/25/2020 09:07:35",
+      "clock_out": "05/25/2020 23:01:05"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "05/26/2020 09:27:07",
+      "clock_out": "05/26/2020 15:52:25"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "05/27/2020 09:59:26",
+      "clock_out": "05/27/2020 21:41:05"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "05/28/2020 09:35:08",
+      "clock_out": "05/29/2020 02:51:50"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "05/29/2020 09:47:16",
+      "clock_out": "05/30/2020 23:45:43"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "05/30/2020 09:11:41",
+      "clock_out": "05/30/2020 18:52:48"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "05/31/2020 09:49:54",
+      "clock_out": "05/31/2020 14:05:02"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "06/01/2020 08:39:47",
+      "clock_out": "06/02/2020 18:52:10"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "06/02/2020 09:46:19",
+      "clock_out": "06/02/2020 20:18:09"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "06/03/2020 09:16:00",
+      "clock_out": "06/03/2020 18:31:57"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "06/04/2020 09:28:47",
+      "clock_out": "06/04/2020 19:47:39"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "06/05/2020 08:14:56",
+      "clock_out": "06/06/2020 09:54:58"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "06/06/2020 09:28:58",
+      "clock_out": "06/06/2020 22:47:14"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "06/07/2020 09:48:18",
+      "clock_out": "06/07/2020 15:55:28"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "06/08/2020 08:17:43",
+      "clock_out": "06/08/2020 20:15:09"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "06/09/2020 09:42:24",
+      "clock_out": "06/10/2020 19:06:16"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "06/10/2020 09:52:46",
+      "clock_out": "06/10/2020 23:19:01"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "06/11/2020 08:57:57",
+      "clock_out": "06/12/2020 07:25:28"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "06/12/2020 09:47:41",
+      "clock_out": "06/13/2020 20:13:17"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "06/13/2020 08:36:28",
+      "clock_out": "06/14/2020 06:27:39"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "06/14/2020 08:47:17",
+      "clock_out": "06/15/2020 19:23:57"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "06/15/2020 09:23:14",
+      "clock_out": "06/16/2020 16:39:12"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "06/16/2020 09:06:41",
+      "clock_out": "06/16/2020 14:48:06"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "06/17/2020 08:21:39",
+      "clock_out": "06/17/2020 16:41:39"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "06/18/2020 09:34:27",
+      "clock_out": "06/19/2020 03:37:01"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "06/19/2020 09:29:52",
+      "clock_out": "06/19/2020 17:37:26"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "06/20/2020 08:58:56",
+      "clock_out": "06/20/2020 22:02:59"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "06/21/2020 09:32:43",
+      "clock_out": "06/21/2020 23:19:21"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "06/22/2020 08:40:20",
+      "clock_out": "06/23/2020 21:57:49"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "06/23/2020 08:25:49",
+      "clock_out": "06/24/2020 05:50:48"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "06/24/2020 08:28:44",
+      "clock_out": "06/24/2020 16:31:18"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "06/25/2020 08:20:42",
+      "clock_out": "06/26/2020 04:09:26"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "06/26/2020 09:24:50",
+      "clock_out": "06/26/2020 23:21:56"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "06/27/2020 08:41:20",
+      "clock_out": "06/27/2020 21:42:26"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "06/28/2020 09:25:04",
+      "clock_out": "06/28/2020 16:49:23"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "06/29/2020 09:06:12",
+      "clock_out": "06/29/2020 14:48:52"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "06/30/2020 08:40:04",
+      "clock_out": "07/01/2020 05:08:52"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "07/01/2020 08:07:55",
+      "clock_out": "07/02/2020 23:11:11"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "07/02/2020 09:34:55",
+      "clock_out": "07/02/2020 23:13:24"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "07/03/2020 08:57:41",
+      "clock_out": "07/04/2020 05:31:50"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "07/04/2020 08:02:51",
+      "clock_out": "07/05/2020 14:29:58"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "07/05/2020 08:22:12",
+      "clock_out": "07/06/2020 08:48:33"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "07/06/2020 09:20:56",
+      "clock_out": "07/07/2020 19:20:20"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "07/07/2020 08:07:25",
+      "clock_out": "07/07/2020 23:25:01"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "07/08/2020 08:04:17",
+      "clock_out": "07/08/2020 15:28:16"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "07/09/2020 08:55:20",
+      "clock_out": "07/10/2020 09:35:58"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "07/10/2020 09:54:22",
+      "clock_out": "07/10/2020 19:00:14"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "07/11/2020 09:29:42",
+      "clock_out": "07/11/2020 22:13:03"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "07/12/2020 09:15:30",
+      "clock_out": "07/13/2020 19:35:34"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "07/13/2020 08:55:59",
+      "clock_out": "07/14/2020 13:38:39"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "07/14/2020 08:11:16",
+      "clock_out": "07/14/2020 20:42:51"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "07/15/2020 08:12:08",
+      "clock_out": "07/16/2020 20:29:05"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "07/16/2020 09:32:05",
+      "clock_out": "07/16/2020 23:08:15"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "07/17/2020 08:33:39",
+      "clock_out": "07/17/2020 23:14:59"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "07/18/2020 09:29:59",
+      "clock_out": "07/19/2020 14:17:41"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "07/19/2020 09:58:05",
+      "clock_out": "07/19/2020 18:13:54"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "07/20/2020 09:29:10",
+      "clock_out": "07/21/2020 10:53:17"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "07/21/2020 08:21:08",
+      "clock_out": "07/21/2020 14:51:32"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "07/22/2020 09:30:38",
+      "clock_out": "07/22/2020 17:47:15"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "07/23/2020 08:01:40",
+      "clock_out": "07/24/2020 18:47:19"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "07/24/2020 09:26:08",
+      "clock_out": "07/24/2020 19:18:01"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "07/25/2020 09:16:09",
+      "clock_out": "07/25/2020 20:08:37"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "07/26/2020 09:15:24",
+      "clock_out": "07/26/2020 20:11:11"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "07/27/2020 08:38:33",
+      "clock_out": "07/28/2020 02:57:14"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "07/28/2020 08:54:13",
+      "clock_out": "07/29/2020 17:38:29"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "07/29/2020 09:01:44",
+      "clock_out": "07/30/2020 18:34:25"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "07/30/2020 09:57:56",
+      "clock_out": "07/30/2020 20:48:55"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "07/31/2020 08:04:33",
+      "clock_out": "07/31/2020 20:09:36"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "08/01/2020 08:45:38",
+      "clock_out": "08/01/2020 20:13:43"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "08/02/2020 09:07:49",
+      "clock_out": "08/02/2020 16:13:35"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "08/03/2020 08:51:32",
+      "clock_out": "08/04/2020 06:46:20"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "08/04/2020 09:26:52",
+      "clock_out": "08/04/2020 15:51:00"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "08/05/2020 08:50:25",
+      "clock_out": "08/06/2020 22:11:14"
+    },
+    {
+      "employee_id": 5,
+      "clock_in": "08/06/2020 08:11:49",
+      "clock_out": "08/06/2020 15:19:51"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "08/07/2020 09:13:50",
+      "clock_out": "08/07/2020 16:40:51"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "08/08/2020 08:10:52",
+      "clock_out": "08/09/2020 20:01:44"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "08/09/2020 08:12:21",
+      "clock_out": "08/09/2020 23:53:10"
+    },
+    {
+      "employee_id": 3,
+      "clock_in": "08/10/2020 08:08:47",
+      "clock_out": "08/10/2020 17:34:59"
+    },
+    {
+      "employee_id": 1,
+      "clock_in": "08/11/2020 09:31:14",
+      "clock_out": "08/11/2020 15:54:59"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "08/12/2020 09:47:02",
+      "clock_out": "08/13/2020 14:25:13"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "08/13/2020 09:35:34",
+      "clock_out": "08/13/2020 14:59:25"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "08/14/2020 09:38:11",
+      "clock_out": "08/15/2020 05:32:59"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "08/15/2020 09:50:34",
+      "clock_out": "08/16/2020 03:22:40"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "08/16/2020 08:02:15",
+      "clock_out": "08/16/2020 18:16:54"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "08/17/2020 08:33:49",
+      "clock_out": "08/18/2020 16:31:27"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "08/18/2020 08:18:05",
+      "clock_out": "08/18/2020 21:14:07"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "08/19/2020 08:59:49",
+      "clock_out": "08/19/2020 14:11:00"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "08/20/2020 09:46:22",
+      "clock_out": "08/20/2020 16:36:30"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "08/21/2020 09:08:44",
+      "clock_out": "08/22/2020 11:14:54"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "08/22/2020 09:04:16",
+      "clock_out": "08/23/2020 10:58:15"
+    },
+    {
+      "employee_id": 12,
+      "clock_in": "08/23/2020 09:47:16",
+      "clock_out": "08/24/2020 02:24:37"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "08/24/2020 09:12:03",
+      "clock_out": "08/24/2020 20:44:22"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "08/25/2020 08:18:05",
+      "clock_out": "08/26/2020 21:24:20"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "08/26/2020 08:59:23",
+      "clock_out": "08/26/2020 22:21:17"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "08/27/2020 09:05:44",
+      "clock_out": "08/27/2020 15:34:01"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "08/28/2020 08:15:34",
+      "clock_out": "08/29/2020 19:36:59"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "08/29/2020 08:50:06",
+      "clock_out": "08/29/2020 14:56:51"
+    },
+    {
+      "employee_id": 17,
+      "clock_in": "08/30/2020 08:55:38",
+      "clock_out": "08/30/2020 20:47:23"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "08/31/2020 09:30:53",
+      "clock_out": "08/31/2020 22:17:01"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "09/01/2020 09:46:02",
+      "clock_out": "09/01/2020 19:29:22"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "09/02/2020 08:04:03",
+      "clock_out": "09/03/2020 02:32:03"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "09/03/2020 09:37:01",
+      "clock_out": "09/03/2020 22:36:14"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "09/04/2020 09:41:09",
+      "clock_out": "09/04/2020 19:06:22"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "09/05/2020 08:54:16",
+      "clock_out": "09/06/2020 23:47:57"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "09/06/2020 08:56:23",
+      "clock_out": "09/07/2020 16:17:37"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "09/07/2020 08:40:00",
+      "clock_out": "09/07/2020 21:58:15"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "09/08/2020 08:09:16",
+      "clock_out": "09/09/2020 19:54:18"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "09/09/2020 08:47:33",
+      "clock_out": "09/09/2020 15:02:46"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "09/10/2020 09:10:40",
+      "clock_out": "09/10/2020 21:44:22"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "09/11/2020 08:31:35",
+      "clock_out": "09/11/2020 15:27:42"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "09/12/2020 09:24:21",
+      "clock_out": "09/12/2020 23:44:09"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "09/13/2020 08:31:36",
+      "clock_out": "09/13/2020 16:08:21"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "09/14/2020 08:12:03",
+      "clock_out": "09/14/2020 23:46:00"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "09/15/2020 09:59:35",
+      "clock_out": "09/15/2020 21:49:06"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "09/16/2020 08:26:55",
+      "clock_out": "09/17/2020 19:02:14"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "09/17/2020 08:07:25",
+      "clock_out": "09/17/2020 16:42:50"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "09/18/2020 08:14:06",
+      "clock_out": "09/18/2020 22:45:12"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "09/19/2020 09:55:31",
+      "clock_out": "09/19/2020 15:52:12"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "09/20/2020 08:37:58",
+      "clock_out": "09/21/2020 16:16:05"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "09/21/2020 08:31:58",
+      "clock_out": "09/21/2020 20:47:45"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "09/22/2020 08:08:43",
+      "clock_out": "09/22/2020 23:59:11"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "09/23/2020 09:57:10",
+      "clock_out": "09/23/2020 14:11:17"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "09/24/2020 08:11:12",
+      "clock_out": "09/24/2020 16:29:54"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "09/25/2020 08:50:12",
+      "clock_out": "09/25/2020 23:06:54"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "09/26/2020 08:08:23",
+      "clock_out": "09/26/2020 20:49:06"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "09/27/2020 09:21:36",
+      "clock_out": "09/28/2020 10:46:16"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "09/28/2020 08:42:34",
+      "clock_out": "09/29/2020 18:24:26"
+    },
+    {
+      "employee_id": 11,
+      "clock_in": "09/29/2020 08:05:56",
+      "clock_out": "09/30/2020 00:36:14"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "09/30/2020 09:48:57",
+      "clock_out": "10/01/2020 07:20:11"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "10/01/2020 09:34:59",
+      "clock_out": "10/01/2020 17:07:05"
+    },
+    {
+      "employee_id": 19,
+      "clock_in": "10/02/2020 08:54:42",
+      "clock_out": "10/03/2020 23:20:01"
+    },
+    {
+      "employee_id": 9,
+      "clock_in": "10/03/2020 08:58:45",
+      "clock_out": "10/03/2020 23:23:31"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "10/04/2020 08:03:19",
+      "clock_out": "10/04/2020 15:00:59"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "10/05/2020 09:10:12",
+      "clock_out": "10/05/2020 21:11:23"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "10/06/2020 08:32:34",
+      "clock_out": "10/06/2020 18:07:19"
+    },
+    {
+      "employee_id": 14,
+      "clock_in": "10/07/2020 08:56:02",
+      "clock_out": "10/08/2020 03:46:20"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "10/08/2020 08:38:02",
+      "clock_out": "10/09/2020 10:16:18"
+    },
+    {
+      "employee_id": 0,
+      "clock_in": "10/09/2020 08:36:20",
+      "clock_out": "10/09/2020 22:10:29"
+    },
+    {
+      "employee_id": 10,
+      "clock_in": "10/10/2020 08:43:09",
+      "clock_out": "10/11/2020 02:14:35"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "10/11/2020 08:43:29",
+      "clock_out": "10/12/2020 02:47:56"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "10/12/2020 08:23:20",
+      "clock_out": "10/12/2020 14:56:51"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "10/13/2020 09:04:38",
+      "clock_out": "10/13/2020 18:33:22"
+    },
+    {
+      "employee_id": 8,
+      "clock_in": "10/14/2020 09:55:48",
+      "clock_out": "10/14/2020 14:29:08"
+    },
+    {
+      "employee_id": 18,
+      "clock_in": "10/15/2020 08:37:44",
+      "clock_out": "10/16/2020 23:51:28"
+    },
+    {
+      "employee_id": 13,
+      "clock_in": "10/16/2020 08:30:54",
+      "clock_out": "10/16/2020 15:57:02"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "10/17/2020 09:42:10",
+      "clock_out": "10/18/2020 08:53:24"
+    },
+    {
+      "employee_id": 6,
+      "clock_in": "10/18/2020 08:09:39",
+      "clock_out": "10/18/2020 14:15:16"
+    },
+    {
+      "employee_id": 16,
+      "clock_in": "10/19/2020 09:33:19",
+      "clock_out": "10/19/2020 23:37:36"
+    },
+    {
+      "employee_id": 4,
+      "clock_in": "10/20/2020 09:47:00",
+      "clock_out": "10/20/2020 16:55:33"
+    },
+    {
+      "employee_id": 2,
+      "clock_in": "10/21/2020 08:22:31",
+      "clock_out": "10/22/2020 22:20:51"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "10/22/2020 08:16:44",
+      "clock_out": "10/23/2020 07:16:30"
+    },
+    {
+      "employee_id": 7,
+      "clock_in": "10/23/2020 09:11:16",
+      "clock_out": "10/23/2020 22:35:43"
+    },
+    {
+      "employee_id": 15,
+      "clock_in": "10/24/2020 09:48:20",
+      "clock_out": "10/24/2020 18:39:06"
+    },
+    {
+      "employee_id": 20,
+      "clock_in": "10/25/2020 08:15:03",
+      "clock_out": "10/25/2020 14:37:14"
+    }
+  ]
+}

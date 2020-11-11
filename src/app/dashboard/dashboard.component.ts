@@ -1,4 +1,7 @@
 import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
+import { Observable } from 'rxjs/internal/Observable';
+import { DashboardState } from '../core/models';
+import { DashboardFacadeService } from './dashboard-facade.service';
 
 @Component({
   selector: 'emp-dashboard',
@@ -6,11 +9,16 @@ import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
   styleUrls: ['./dashboard.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class DashboardComponent implements OnInit {
+export class DashboardComponent
+{
 
-  constructor() { }
-
-  ngOnInit(): void {
+  public dashboardState$: Observable<DashboardState> = this.facade.state$;
+  constructor(private facade: DashboardFacadeService)
+  {
   }
 
+  addUser(): void
+  {
+    this.facade.addUser();
+  }
 }

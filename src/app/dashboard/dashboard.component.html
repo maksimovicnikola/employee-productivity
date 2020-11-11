@@ -1,18 +1,18 @@
-<div class="dashboard">
+<div class="dashboard" *ngIf="(dashboardState$ | async) as dashboardState">
   <mat-card class="info-box">
     <mat-card-header>
       <mat-card-title>Employee Count</mat-card-title>
     </mat-card-header>
     <mat-card-content>
-      <!-- <p *ngIf="vm.users.length;else loading">{{ vm.users.length }}</p>
-      <ng-template #loading>Loading...</ng-template> -->
+      <p *ngIf="dashboardState.users.length;else loading">{{ dashboardState.users.length }}</p>
+      <ng-template #loading>Loading...</ng-template>
     </mat-card-content>
   </mat-card>
 
   <ul>
-    <!-- <li *ngFor="let user of (vm$ | async).users">
-      <span>{{ user.name }}: {{ user.regular_hours }}</span>
-    </li> -->
+    <li *ngFor="let user of dashboardState.users">
+      <span>{{ user.name }}: {{ user.regular_hours }} hours</span>
+    </li>
   </ul>
-
+  <button (click)="addUser()">Add User</button>
 </div>
